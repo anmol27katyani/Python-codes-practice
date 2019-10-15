@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8e4f0fe-aa44-419f-9177-54288e010637" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/scopes/Scope.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,6 +24,12 @@
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="086a5d78-2208-4009-8550-1a0056e098d2" />
   </component>
+  <component name="NamedScopeManager">
+    <scope name="Scope1" pattern="file:*.py" />
+    <order>
+      <scope name="Scope" />
+    </order>
+  </component>
   <component name="ProjectId" id="1Rq4SCYWyPg0kJVUhv7r029g9tu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -30,7 +37,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
